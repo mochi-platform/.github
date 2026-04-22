@@ -1,4 +1,4 @@
-![Mochi Banner Social](https://github.com/mochi-platform/.github/assets/banner.png)
+![Mochi Banner Social](https://github.com/mochi-platform/.github/blob/main/assets/banner.png)
 # Mochi Platform 🍡
 
 **Mochi** es una plataforma de productividad personal diseñada 100% para mujeres estudiantes. Combina planificación académica inteligente, seguimiento de bienestar, rutinas de ejercicio, cocina con IA y gamificación en un ecosistema cohesionado.
