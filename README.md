@@ -134,7 +134,7 @@ Cada feature nueva pasa por:
 ## Contacto
 
 - Sitio: [mochi.siramong.tech](https://mochi.siramong.tech)
-- Soporte: hola@siramong.tech
+- Soporte: mochi@siramong.tech
 
 ---
 
