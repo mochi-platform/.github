@@ -8,7 +8,8 @@
 
 | Repo | Descripción | Stack principal |
 |---|---|---|
-| [`mochi-mobile`](https://github.com/siramong/mochi-mobile) | Aplicación Android (e iOS futuro) | Expo · React Native · NativeWind |
+| [`mochi-mobile`](https://github.com/mochi-platform/mochi-mobile) | Aplicación Android (e iOS futuro) | Expo · React Native · NativeWind |
+| [`mochi-web`](https://github.com/mochi-platform/mochi-web) | Aplicación Web / Escritorio | Vite · React Native · NativeWind |
 
 ---
 
@@ -127,7 +128,7 @@ Cada feature nueva pasa por:
 | Rol | Persona |
 |---|---|
 | Fundadora & Product | Doménica |
-| Ingeniería | Doménica + Copilot Agents |
+| Desarrollador | SirAmong + Copilot Agents |
 
 ---
 
@@ -138,4 +139,4 @@ Cada feature nueva pasa por:
 
 ---
 
-© Siramong. Todos los derechos reservados.
+© 2026 DEM Development. Todos los derechos reservados.
